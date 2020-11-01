@@ -8,11 +8,12 @@ There are 2 versions, one that using a process for each pair, and one that uses 
 
 V1 reads pairs of numbers from STDIN and use the command line argument to pass the two numbers to the child process, then using the exit status of the child process to read calculated gcd.
 
-### Usage
+#### Usage
 
 Run `./v1_parent` in the command line in `v1` folder, or `./v1/v1_parent` in the main folder.
 
 Press `ctrl + d` to stop.
+
 
 
 
@@ -21,6 +22,6 @@ Press `ctrl + d` to stop.
 V2 reads pairs of numbers from a file, the file name should be given in the command line as an argument.
 The two numbers and the calculated gcd is passed through pipes.
 
-### Usage
+#### Usage
 
 Run `./v2_parent` in the command line in `v2` folder, or `./v2/v2_parent` in the main folder.
