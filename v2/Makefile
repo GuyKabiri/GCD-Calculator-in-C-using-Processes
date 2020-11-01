@@ -1,5 +1,3 @@
-# Guy Kabiri 312252224
-
 EXEC = v2_parent v2_child
 
 all: clean $(EXEC)

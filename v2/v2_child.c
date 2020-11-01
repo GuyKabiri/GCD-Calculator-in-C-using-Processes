@@ -1,5 +1,3 @@
-// Guy Kabiri 312252224
-
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

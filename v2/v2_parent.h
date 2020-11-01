@@ -1,5 +1,3 @@
-// Guy Kabiri 312252224
-
 #ifndef __V2_PARENT__
 #define __V2_PARENT__
 
