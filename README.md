@@ -24,4 +24,4 @@ The two numbers and the calculated gcd is passed through pipes.
 
 #### Usage
 
-Run `./v2_parent` in the command line in `v2` folder, or `./v2/v2_parent` in the main folder.
+Run `./v2_parent file_name` in the command line in `v2` folder, or `./v2/v2_parent file_name` in the main folder, where `file_name` is a file with pairs of numbers seperated with spaces or tabs, one pair in each row.
